@@ -1,0 +1,9 @@
+.nav {
+   background-color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.nav, h1{
+    color: white;
+}
